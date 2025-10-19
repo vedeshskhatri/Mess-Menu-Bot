@@ -1,0 +1,140 @@
+{
+    "01-10-2025": {
+        "Breakfast": ["Bisi Bele Bath", "Mixture", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Red Pumpkin Dry", "Aloo Methi Gravy", "Dal Fry", "Kuska Rice", "Plain Rice", "Greenmoong Kosambari", "Chapati", "Tomato Rasam", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Bakery Product", "Pani Poori", "Ginger Tea", "Coffee"],
+        "Dinner": ["Paneer Capsicum Gravy", "Dal Makhni", "Jeera Pulao", "Plain Rice", "Rasam", "Chapati", "Ice Cream Cup VANILA", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "02-10-2025": {
+        "Breakfast": ["Vegetable Upma", "Coconut Chutney", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Aloo Mix Veg, Dry", "Soya Masala", "Lasooni Dal", "Puliyogare", "Plain Rice", "Cucumber Salad", "Chapati", "M C Sambar", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Sweet Chutney", "Mayonnaise Bonda", "Ginger Tea", "Coffee"],
+        "Dinner": ["Veg Jaffrezi", "Dal Andhra", "Yellow Pulao", "Plain Rice", "Ridge Gourd Sambar", "Chapati", "Fruit Custard", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "03-10-2025": {
+        "Breakfast": ["Kara Pongal", "Coconut Chutney", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Beans Poriyal", "Kadar Vegetable", "Dal Red Masoor", "Masala Rice", "Plain Rice", "Mix Vegetable Salad", "Chapati", "Ginger Rasam", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Veg Samosa", "Ginger Tea", "Coffee"],
+        "Dinner": ["Aloo Gobi Masala", "Dal Navratan", "Lemon Rice", "Plain Rice", "Andhra Rasam", "Chapati", "Fruit", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "04-10-2025": {
+        "Breakfast": ["Rava Idli", "Bombay Sagu", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Cabbage Moong Poriyal", "Aloo Black Channa Masala", "Dal Punjabi", "Tomato Rice", "Plain Rice", "Tossed Salad", "Chapati", "Brinjal Sambar", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Bakery Product", "Ginger Tea", "Coffee"],
+        "Dinner": ["Rajma Masala", "Gujarati Dal", "Plain Rice", "Lemon Rasam", "Chapati", "Andhra Sambar", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "05-10-2025": {
+        "Breakfast": ["Set dosa", "Dosa Palya", "Breakfast Sambar", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Beetroot Palya", "Paneer Peas Masala", "Black Dal", "Ghee Rice", "Plain Rice", "Green Salad", "Chapati", "Udupi Rasam", "Masala Raita", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Bhel Poori", "Ginger Tea", "Coffee"],
+        "Dinner": ["Veg Lababdar", "Dal Fry", "Jeera Rice", "Plain Rice", "Andhra Sambar", "Chapati", "Ice Cream Cup VANILA", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "08-10-2025": {
+        "Breakfast": ["Bisi Bele Bath", "Kara Boondi", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Chow Dry", "Aloo Palak", "Dal Red Masoor", "Vangi Bhath", "Plain Rice", "Greenmoong Kosambari", "Chapati", "Chow Chow Sambar", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Bakery Product", "Masala Poori", "Ginger Tea", "Coffee"],
+        "Dinner": ["Paneer Capsicum Masala", "Dal Makhni", "Jeera Pulao", "Plain Rice", "Rasam", "Chapati", "Ice Cream Cup VANILA", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "09-10-2025": {
+        "Breakfast": ["Vegetable Upma", "Coconut Chutney", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Ladies Finger Poriyal", "Kofta Vegetable", "Dal Tadka", "Carrot Rice", "Plain Rice", "Plain Cucumber Salad", "Chapati", "Barth Rasam", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Sweet Chutney", "Ginger Tea", "Coffee"],
+        "Dinner": ["Black Channa Tomato Masala", "Dal Nawabi", "Jeera Pulao", "Corinader Pulao", "Plain Rice", "Onion Sambar", "Chapati", "Dry/Soild Sweet", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "10-10-2025": {
+        "Breakfast": ["Kara Pongal", "Coconut Chutney", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Cabbage Beans Poriyal", "Veg Jaifrezi", "Dal Pepper Masala", "Tomato Rice", "Plain Rice", "Radish & Cucumber Salad", "Chapati", "Jeera Rasam", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Corn Chat", "Ginger Tea", "Coffee"],
+        "Dinner": ["Veg Lababdar", "Dal Lasooni", "Pulyogare", "Plain Rice", "Madras Sambar", "Chapati", "Fruit", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "11-10-2025": {
+        "Breakfast": ["Gobi Paratha", "Coconut Chutney", "Breakfast Sambar", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Aloo Capsicum Gravy", "Aloo Gobi Matar Masala", "Dal Fry", "Tomato Rice", "Plain Rice", "Tomato & Cucumber Salad", "Chapati", "Lemon Rasam", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Bakery Product", "Ginger Tea", "Coffee"],
+        "Dinner": ["Aloo Mutter Masala", "Dal Punjabi", "Veg Pulao", "Plain Rice", "Pepper Jeera Rasam", "Chapati", "Ice Cream Cup VANILA", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "12-10-2025": {
+        "Breakfast": ["Plain Dosa", "Plain Chutney", "Breakfast Sambar", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Snake Gourd Poriyal", "Paneer Peas Masala", "Black Dal", "Ghee Rice", "Plain Rice", "Cabbage Salad", "Chapati", "Snake Gourd Sambar", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Bhel Poori", "Sweet Chutney", "Ginger Tea", "Coffee"],
+        "Dinner": ["Soya Masala", "Dal Fry", "Pulyogare", "Plain Rice", "Rasam", "Chapati", "Ice Cream Cup VANILA", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "15-10-2025": {
+        "Breakfast": ["Bisi Bele Bath", "Mixture", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Red Pumpkin Dry", "Aloo Methi Gravy", "Dal Fry", "Kuska Rice", "Plain Rice", "Greenmoong Kosambari", "Chapati", "Tomato Rasam", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Bakery Product", "Pani Poori", "Ginger Tea", "Coffee"],
+        "Dinner": ["Paneer Capsicum Gravy", "Dal Makhni", "Jeera Pulao", "Plain Rice", "Rasam", "Chapati", "Ice Cream Cup VANILA", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "16-10-2025": {
+        "Breakfast": ["Vegetable Upma", "Coconut Chutney", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Aloo Mix Veg, Dry", "Soya Masala", "Lasooni Dal", "Puliyogare", "Plain Rice", "Cucumber Salad", "Chapati", "M C Sambar", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Sweet Chutney", "Mayonnaise Bonda", "Ginger Tea", "Coffee"],
+        "Dinner": ["Veg Jaffrezi", "Dal Andhra", "Yellow Pulao", "Plain Rice", "Ridge Gourd Sambar", "Chapati", "Fruit Custard", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "17-10-2025": {
+        "Breakfast": ["Kara Pongal", "Coconut Chutney", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Beans Poriyal", "Kadar Vegetable", "Dal Red Masoor", "Masala Rice", "Plain Rice", "Mix Vegetable Salad", "Chapati", "Ginger Rasam", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Veg Samosa", "Ginger Tea", "Coffee"],
+        "Dinner": ["Aloo Gobi Masala", "Dal Navratan", "Lemon Rice", "Plain Rice", "Andhra Rasam", "Chapati", "Fruit", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "18-10-2025": {
+        "Breakfast": ["Rava Idli", "Bombay Sagu", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Cabbage Moong Poriyal", "Aloo Black Channa Masala", "Dal Punjabi", "Tomato Rice", "Plain Rice", "Tossed Salad", "Chapati", "Brinjal Sambar", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Bakery Product", "Ginger Tea", "Coffee"],
+        "Dinner": ["Rajma Masala", "Gujarati Dal", "Plain Rice", "Lemon Rasam", "Chapati", "Andhra Sambar", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "19-10-2025": {
+        "Breakfast": ["Set dosa", "Dosa Palya", "Breakfast Sambar", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Beetroot Palya", "Paneer Peas Masala", "Black Dal", "Ghee Rice", "Plain Rice", "Green Salad", "Chapati", "Udupi Rasam", "Masala Raita", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Bhel Poori", "Ginger Tea", "Coffee"],
+        "Dinner": ["Veg Lababdar", "Dal Fry", "Jeera Rice", "Plain Rice", "Andhra Sambar", "Chapati", "Ice Cream Cup VANILA", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "22-10-2025": {
+        "Breakfast": ["Bisi Bele Bath", "Kara Boondi", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Chow Dry", "Aloo Palak", "Dal Red Masoor", "Vangi Bhath", "Plain Rice", "Greenmoong Kosambari", "Chapati", "Chow Chow Sambar", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Bakery Product", "Masala Poori", "Ginger Tea", "Coffee"],
+        "Dinner": ["Paneer Capsicum Masala", "Dal Makhni", "Jeera Pulao", "Plain Rice", "Rasam", "Chapati", "Ice Cream Cup VANILA", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "23-10-2025": {
+        "Breakfast": ["Vegetable Upma", "Coconut Chutney", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Ladies Finger Poriyal", "Kofta Vegetable", "Dal Tadka", "Carrot Rice", "Plain Rice", "Plain Cucumber Salad", "Chapati", "Barth Rasam", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Sweet Chutney", "Ginger Tea", "Coffee"],
+        "Dinner": ["Black Channa Tomato Masala", "Dal Nawabi", "Jeera Pulao", "Corinader Pulao", "Plain Rice", "Onion Sambar", "Chapati", "Dry/Soild Sweet", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "24-10-2025": {
+        "Breakfast": ["Kara Pongal", "Coconut Chutney", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Cabbage Beans Poriyal", "Veg Jaifrezi", "Dal Pepper Masala", "Tomato Rice", "Plain Rice", "Radish & Cucumber Salad", "Chapati", "Jeera Rasam", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Corn Chat", "Ginger Tea", "Coffee"],
+        "Dinner": ["Veg Lababdar", "Dal Lasooni", "Pulyogare", "Plain Rice", "Madras Sambar", "Chapati", "Fruit", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "25-10-2025": {
+        "Breakfast": ["Gobi Paratha", "Coconut Chutney", "Breakfast Sambar", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Aloo Capsicum Gravy", "Aloo Gobi Matar Masala", "Dal Fry", "Tomato Rice", "Plain Rice", "Tomato & Cucumber Salad", "Chapati", "Lemon Rasam", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Bakery Product", "Ginger Tea", "Coffee"],
+        "Dinner": ["Aloo Mutter Masala", "Dal Punjabi", "Veg Pulao", "Plain Rice", "Pepper Jeera Rasam", "Chapati", "Ice Cream Cup VANILA", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "26-10-2025": {
+        "Breakfast": ["Plain Dosa", "Plain Chutney", "Breakfast Sambar", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Snake Gourd Poriyal", "Paneer Peas Masala", "Black Dal", "Ghee Rice", "Plain Rice", "Cabbage Salad", "Chapati", "Snake Gourd Sambar", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Bhel Poori", "Sweet Chutney", "Ginger Tea", "Coffee"],
+        "Dinner": ["Soya Masala", "Dal Fry", "Pulyogare", "Plain Rice", "Rasam", "Chapati", "Ice Cream Cup VANILA", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "29-10-2025": {
+        "Breakfast": ["Bisi Bele Bath", "Mixture", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Red Pumpkin Dry", "Aloo Methi Gravy", "Dal Fry", "Kuska Rice", "Plain Rice", "Greenmoong Kosambari", "Chapati", "Tomato Rasam", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Bakery Product", "Pani Poori", "Ginger Tea", "Coffee"],
+        "Dinner": ["Paneer Capsicum Gravy", "Dal Makhni", "Jeera Pulao", "Plain Rice", "Rasam", "Chapati", "Ice Cream Cup VANILA", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "30-10-2025": {
+        "Breakfast": ["Vegetable Upma", "Coconut Chutney", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Aloo Mix Veg, Dry", "Soya Masala", "Lasooni Dal", "Puliyogare", "Plain Rice", "Cucumber Salad", "Chapati", "M C Sambar", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Sweet Chutney", "Mayonnaise Bonda", "Ginger Tea", "Coffee"],
+        "Dinner": ["Veg Jaffrezi", "Dal Andhra", "Yellow Pulao", "Plain Rice", "Ridge Gourd Sambar", "Chapati", "Fruit Custard", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    },
+    "31-10-2025": {
+        "Breakfast": ["Kara Pongal", "Coconut Chutney", "Sandwich Bread", "Corn Flakes", "Milk with Sugar", "Tea/Coffee", "Mixed Fruit Jam"],
+        "Lunch": ["Beans Poriyal", "Kadar Vegetable", "Dal Red Masoor", "Masala Rice", "Plain Rice", "Mix Vegetable Salad", "Chapati", "Ginger Rasam", "Curd", "Papad", "Mix Veg Pickle"],
+        "Snacks": ["Veg Samosa", "Ginger Tea", "Coffee"],
+        "Dinner": ["Aloo Gobi Masala", "Dal Navratan", "Lemon Rice", "Plain Rice", "Andhra Rasam", "Chapati", "Fruit", "Curd", "Mix Raita", "Mix Veg Pickle"]
+    }
+}

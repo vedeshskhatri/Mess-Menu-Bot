@@ -67,4 +67,4 @@ The bot will respond with the current meal's menu.
 
 ## Extending the Menu
 
-The `MENU_DATA` dictionary in `Mess.py` holds all the menu information. You can extend this dictionary with more dates and meal items. The keys for the dates should be in `DD-MM-YYYY` format.
+The `menu_data.json` file holds all the menu information. You can extend this file with more dates and meal items. The keys for the dates should be in `DD-MM-YYYY` format.

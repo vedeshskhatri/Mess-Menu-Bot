@@ -23,7 +23,7 @@ def load_menu_data(file_path):
         print(f"Error: Could not decode the JSON from {file_path}")
         return {}
 
-MENU_DATA = load_menu_data('menu_data.json')
+MENU_DATA = load_menu_data('menu_data.json') # This will now load the external menu data
 
 intents = discord.Intents.default()
 intents.message_content = True
@@ -57,16 +57,16 @@ async def send_menu(ctx):
     menu_title = ""
     meal_items = []
     
-    if 5 <= current_hour < 12:
+    if 5 <= current_hour < 9:
         menu_title = f"Breakfast Menu 🍳 - {now_ist.strftime('%A')}"
         meal_items = daily_menu.get("Breakfast", [])
-    elif 12 <= current_hour < 16:
+    elif 9 <= current_hour < 14:
         menu_title = f"Lunch Menu 🍛 - {now_ist.strftime('%A')}"
         meal_items = daily_menu.get("Lunch", [])
-    elif 16 <= current_hour < 19:
+    elif 14 <= current_hour < 17:
         menu_title = f"Evening Snacks Menu ☕️ - {now_ist.strftime('%A')}"
         meal_items = daily_menu.get("Snacks", [])
-    elif 19 <= current_hour < 23:
+    elif 17 <= current_hour < 21:
         menu_title = f"Dinner Menu 🍽️ - {now_ist.strftime('%A')}"
         meal_items = daily_menu.get("Dinner", [])
     else:
